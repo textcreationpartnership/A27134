@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seven thunders vttering their voices, and the seven last trumpets preparing to sound in the spirit of jealousies ... being an alarm to all the inhabitants of the earth, especially to the dwellers in Sodom and Egypt and all inhabiters of Babilon, whose perpetual down-fall is nigh at hand.</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27134</idno>
+            <idno type="STC">Wing B1535</idno>
+            <idno type="STC">ESTC R5176</idno>
+            <idno type="EEBO-CITATION">13083557</idno>
+            <idno type="OCLC">ocm 13083557</idno>
+            <idno type="VID">97270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97270)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 408:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seven thunders vttering their voices, and the seven last trumpets preparing to sound in the spirit of jealousies ... being an alarm to all the inhabitants of the earth, especially to the dwellers in Sodom and Egypt and all inhabiters of Babilon, whose perpetual down-fall is nigh at hand.</title>
+                  <author>Bayly, William, d. 1675.</author>
+               </titleStmt>
+               <extent>[1], 7 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: William Bayly.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Some pages are stained and have print show-through; p. 7 is cropped in filmed copy. Beginning-end photographed from Huntington Library copy and inserted at the end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judgment Day --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:97270:1"/>
+            <pb facs="tcp:97270:1" rendition="simple:additions"/>
+            <head>SEVEN THUNDERS Vttering their Voices, and the Seven LAST TRVMPETS Preparing to ſound in the Spirit of Jea<g ref="char:EOLhyphen"/>louſies, (which is jealous for <hi>Sion,</hi>) Proclaim<g ref="char:EOLhyphen"/>ing the great, and notable, and terrible day, of <hi>Iehovah</hi> the Mighty God of trembling <hi>Iſraels</hi> Camp, in which no Fleſh ſhall be ſaved but for the Elects Sake.</head>
+            <head type="sub">Being an Alarm to all the Inhabitants of the Earth eſpecially to the dwellers in <hi>Sodom</hi> and <hi>Egipt,</hi> and all Inhabiters of <hi>Babilon,</hi> whoſe perpetual down-fall is nigh at hand.</head>
+            <p>THe great and Mighty day of God is appeared, wherein every mans works and ways, Worſhips and Religion, Profeſſions and practices, words and actions ſhall be declared and made mani<g ref="char:EOLhyphen"/>feſt, and tryed of what ſort ſoever they be, and none ſhall be able to hide himſelf from the bright Splender of its Glory for God who is a Conſum<g ref="char:EOLhyphen"/>ing fire, is ariſen and coming to paſs through all, and to try all with his grounded Staffe, and with Battles of Shakings, and woe be to him that is covered with a Covering, and not of my Spirit ſaith the Lord, For I the
+<pb facs="tcp:97270:2"/>Mighty God am come to judge the World with Equity, and the people with Truth, and no Weapon formed againſt my work ſhall proſper, for I have looked down from heaven over all the ways, worſhips, and great profeſſions of Religions amongſt the children of men, &amp; have found the greateſt part in falſehood, Hipocriſy, and Idolatry, and the abomination ſtands where it ought not in the inward parts, where I have required Truth and uprightneſs, and they are bending their tongues like their bow for lyes, and are not valiant for the truth upon Earth, for which cauſe my out-ſtreached Arme is Reveal<g ref="char:EOLhyphen"/>ed, which ſhall break in peices Nations, even for my ſeeds ſake, and that man or people that will not ſerve me, ſhall utterly periſh, I the Lord have ſpoken it, for I am ariſen in my dreadful power and great Glory, to lay waſt all high Mountaines, and ſtrong Towers, and to bring down every fenced Wall and the tall Ceaders, ſtrong Oakes, and pleaſant pictures ſhall fall down at the ſhaking of my hand, and I will ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in the pride of the Glory of all Fleſh, and bring the Honourable into contempt, and ſpoile the beauty of the great Whore, which hath ſat upon Nations, and the Beaſt and falſe Prophet, with all her Marchants, I will plague and torment her; and they ſhall know that I am the Lord that ſearcheth the heart and tryeth the Reines, who will re<g ref="char:EOLhyphen"/>ward every man according to his works.</p>
+            <p>Therefore all Peoples Kindreds and Nations throughout the whole world (that lyes in wickedneſs) Awake awake to Righteouſnes, and ſtand up in fear and dread, and tremble yea before the Almighty God, <hi>and come out of</hi> Babylon, <hi>come out of</hi> Babylon, <hi>flee, haſt, and run, for the day of Venge<g ref="char:EOLhyphen"/>ance is come upon the Inhabitants of</hi> Babylon, <hi>it is come as a Snare, as a ſnare is the day of the Lord come, and you will not beleive it; Ariſe, ariſe, ſtand up yea Armies of the</hi> Alians Gog <hi>and</hi> Magog, Gomer <hi>and his bands, and all the Hoſts of the</hi> Philiſtines, <hi>and all you</hi> Sodomites, <hi>and</hi> Iſ<g ref="char:EOLhyphen"/>maelites, <hi>that belong to the Coaſts of</hi> Egypt <hi>and</hi> Babylon; <hi>The Trumpet of the Almighty God is ſounded out of</hi> Sion <hi>his holy Mountaine; Alarm, alarm, prepare, prepare to the Battle of the great God, all ye hoſts of the Heathen, the ſtandard of his zeal and fury and Indignation is lift<g ref="char:EOLhyphen"/>ed up againſt you, and you ſhall be beaten, and broken, and ſcattered and trampled down to duſt ſaith the Lord God Almighty: And all you Bulls of</hi> Baſhan, <hi>you are for the Slaughter, and all you tall Ceaders and ſtrong Oakes, you are fuel for the fire, and all you ſenced Walls, you ſhall be broaken down, and all you pleaſant Pictures you ſhall be defaced; for a ſpoiler is come into all your dwellings and you perceive it not, a fire is
+<pb n="2" facs="tcp:97270:2"/>kindled, and you know it not, an Ax is hewing and you hear it not, a ſword is drawn and a bow is bent by the Armes of the Almighty and you ſee it not,</hi> Awake awake you heathen out of your ſleep, and come up to the Vally of <hi>Jehoſaphat,</hi> for the Almighty God will plead with you there, for he is coming from <hi>Bozrah</hi> with dyed garments, and he will trample you in his fury as one that treadeth upon morter, &amp; you ſhall be as chaffe before the whirle<g ref="char:EOLhyphen"/>wind, all ye Inhabitants of <hi>Babylon Egypt,</hi> and <hi>Ethiopia,</hi> and all you <hi>Sodo<g ref="char:EOLhyphen"/>mites,</hi> and <hi>Edomites;</hi> Cry and howle ye Mountaines, tremble ye Oakes and Ceaders, fall down ye fenced Walls, Roar ye Bulls of <hi>Baſhan,</hi> for the great and dreadful day of the Eternal mighty God is at hand, which ſhall be upon every one that is proud and upon every one that is high and lifted up, and they ſhall be abaſed; Therefore hear, hear ye that lye upon your beds of Ivory, and ſtreach your ſelves upon your Couches, that chant at the ſound of the Vi<g ref="char:EOLhyphen"/>ol, and drink wine in bowles, and are not greived for the afflictions of <hi>Ioſeph:</hi> Even all you that are at eaſe in unrighteouſneſs, if you have an eare hear, and if you have an eye, ſee what you are doing.</p>
+            <p>For thus ſaith the Lord God, you who are at eaſe in the ways of ungodli<g ref="char:EOLhyphen"/>neſs, and wickedneſs, are the afflictors of <hi>Ioſeph,</hi> and the opreſſors of <hi>Iſrael</hi> (for it is written I will lead <hi>Ioſeph</hi> like a flock, and I will ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Solitary in families) looke ye to it, for I have determined to break in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ices the oppreſſor, and to bring my Son out of <hi>Egypt,</hi> what will ye now do ye potſheards? will ye venture in battle againſt your maker? ſhall ye not then be broken to peices? am not I a conſuming fire and you as brambles, and thornes, and ſtuble, before me? <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> what you do, ye ungodly men if you fight againſt <hi>Iſrael</hi> you ſhall ſurely fall<g ref="char:punc">▪</g> I the Lord have ſpoken it, for I am ariſen as an Eagle that flut<g ref="char:EOLhyphen"/>tereth over her young, to defend my people, and my ſeed ſhall grow and pro<g ref="char:EOLhyphen"/>ſper and repleniſh the Earth, and all that ſtrive againſt them ſhall be con<g ref="char:EOLhyphen"/>founded, would you make void my decree and determinations, and the words that I have ſpoken by my prophets ſince the world began that the ſeed of the Woman ſhould bruiſe the Serpents head (the Dragons power which makes war with the Lamb, the harmleſs ſuffering ſeed) and did I not ſay, that the ſeed of <hi>Abraham,</hi> ſhould be as the ſtars of Heaven, and as the ſand of the ſea ſhore for multitude, and that the Earth ſhould be filled with my knowledge as the waters cover the Sea; And would you ſtrive to hinder this my unalterable decree? is it not written, why do the Heathen rage, and the people imagine a vain thing, the Kings of the Earth ſet themſelves, and the Rulers take Counſel together againſt the Lord, and againſt his anonited <hi>(make that)</hi>
+               <pb n="3" facs="tcp:97270:3"/>ſaying, let us break their bands aſſunder, and caſt away their Cords from us: Hear ye deaf, and ſee ye blind, who are mine anointed, but them who have received the unction from me the Holy One, which teacheth them all things, even my ſpirit which leadeth them into all truth, in which I am coming in ten thouſands of my Saints, to reprove and convince all that are ungodly, of all their ungodly deeds which they have committed and of their hard ſpeeches which thy have ſpoken againſt me: And I will break in peices Nations, and give people for their life, therefore touch not my Anointed, and do my Prophets no harme, but be ſtill ye heathen and know that I am God, I will be exalted in the earth and my name ſhall be great in all Nations, and fears and terrours, miſery, and deſtruction, ſhall come as a floud upon all the work<g ref="char:EOLhyphen"/>ers of Iniquity, and my fury as a whirlewinde ſhall ſweep them away; and <hi>Joſephs</hi> bough ſhall ſpread over the wall, like a fruitful vine; for I will caſt out the Heathen, and plant him for ever, for I am unchangeable, he that hath an ear to hear, let him hear; As I live ſaith the Lord God, I have ſworn by myſelf, and I will performe it, <hi>Jacob</hi> ſhall grow, and <hi>Iſrael</hi> ſhall increaſe, and <hi>Joſeph</hi> ſhall flouriſh, and they ſhall fill the face of the whole Earth, but I will deſtroy the workers of Iniquity out of it, &amp; root out the memorial of the ungodly, the ſeed of the evil doers ſhall never be renowned; for I am riſen, I am riſen as a conſuming fire, to make a full end, and my flame burneth even to the top of the Mountains, and my coales in the foundations of the Hills, and the unfruitful earth ſhall be devoured with the fire of my jealouſie; I am ariſen in the greatneſs of my ſtrength, to lay waſt to conſume and to deſtroy, the ſinners out of it; yea, I am ariſen, I am a<g ref="char:EOLhyphen"/>riſen as a Gyant to run his race, refreſht with new Wine, and as a mighty man of War, that ſhouteth to the Battle, yea I am ariſen as the noyſe of many Thunders, and as the fierceneſs of Lightning, and I am crying like a woman in travel, to be eaſed of mine Adverſaries; yea and my voice ſhall be ter<g ref="char:EOLhyphen"/>rible to the Nations; I am ariſen, I am ariſen, like a Lyon out of his thicket, and like an old Lyon that is greedy for the prey.</p>
+            <p>And like a Lyoneſs that is bereaved of her whelps, and I will utter my voice, I will roar, and the earth ſhall be ſhaken at the ſound thereof: and the pillars of heaven ſhall tremble, and the ſea ſhall roar, and be troubled at the noiſe of my dreadful thunders, with which I will thunder upon the wicked, yea, I am ariſen to take vengeance, to avenge, to give a recompence, to ren<g ref="char:EOLhyphen"/>der judgements and indignation, plague upon plague, torment upon torment, thunders upon thunders, vialls upon vials, wrath upon wrath, earthquake, up<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:97270:3"/>earthquake, trumpet after trumpet, war upon war, bloud upon blood, ſlain upon ſlain, heap upon heapes. Therefore, hear, fear, quake and tremble, all ye workers of iniquity, houl, lament, and roar, and be ye horribly astoni<g ref="char:EOLhyphen"/>ſhed, ye heathen that are at eaſe for behold I am riſen to plead with all fleſh, yea I will plead with you all from the higheſt to the loweſt for I have re<g ref="char:EOLhyphen"/>membred my ſeed which you have long oppreſſed, yea their cry is come into mine ears and hath moved my bowels towards them, which burns against you ye hard-hearted and rebellious for my determination is to make a full end of iniquity, tranſgreſſion and ſin, and no fleſh ſhall stand in oppoſition a<g ref="char:EOLhyphen"/>gainſt me, who am a conſuming fire.</p>
+            <p>For behold I am coming in ten thouſands of my ſaints, yea in thouſands of thouſands, of thoſe poor people which have been long as trodden down, pee<g ref="char:EOLhyphen"/>led, robbed and ſpoyled, even of thoſe (whom the ſcorners of this world, have termed Quakers) that trembles at my word, they are them with whom I will fill the world with Cities, when the tranſgreſsors are deſtroyed out of it; therefore hear O my peole that tremble at my word, thus ſaith your eternal mighty God, <hi>JEHOVAH is my name, fear ye not the fury of the Adverſary and the Oppreſſor, though death and hell, the ſea and the grave perſue you; they muſt ariſe and will ariſe againſt you, (O my people (that are poor and contrite in ſpirit) but fear them not, for the day haſtens (as the woman that is near the time of her delivery) in which death, hell, the ſea and the grave, muſt give up all that in them is, and death and hell ſhall be caſt into the lake that burnes for ever and ever, and all this ungodlineſs, Idolatry, and darkneſs that is now ariſen, or can yet ariſe, I will trample in mine anger, yea I will tread it down down, down, into the pit, into the bottomleſs pit, whence it ſhall no more riſe up for ever, yea I will ſet them down with the great Dragon, I will ſet them all down that riſe up againſt you (O my poor and deſpi<g ref="char:EOLhyphen"/>ſed people) therefore fear them not neither be afraid of their ſnares, gins, or traps, which they have, or ſhall ſet, or make to catch the ſheep of my paſture (which are men) for I have determined to break them and their ſnares with them, and they ſhall know that ye are my people, and that I the mighty Jehovah of Iſrael am your God, that is my name amongſt you this day, for I will plead with all fleſh, and it ſhall fall before me: Therefore fear not their Kings nor their Princes, their Parliaments nor their Rulers, for I will trample upon Kings and Prin<g ref="char:EOLhyphen"/>ces as upon Morter in this the day of my fury. But truſt in my name
+<pb n="6" facs="tcp:97270:4"/>and in it dwell for ever, for in my name is everlaſting ſtrength, and take you no thought how all this dark power of ſuperſtition, Idolatry, and madneſs ſhall be ſubdued, for I the mighty Jehovah, the God of trem<g ref="char:EOLhyphen"/>bling Iſraels Camp, will break their Idolatrous worſhip and daſh their Idols, (on which they are made<g ref="char:punc">▪</g>) to peices, and none of their Kings, nor their Princes, their Biſhops, nor their Rulers, ſhall deliver them, nor themſelves from the ſtroak of my hand.</hi>
+            </p>
+            <p>
+               <hi>Therefore be ſtill O my people, in the clift of the Rock of my power and dwell quietly in my everlaſting ſtrength (O my deſpiſed) for the Harveſt of the glory of my Seed is very neer, for I am now di<g ref="char:EOLhyphen"/>viding of Wheat from the Tares and the Chaffe, the Sheep from the Goats, the clean from the unclean, throughout all the Nations o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Earth, And my mighty Angels ſtands ready with their Golden Trum<g ref="char:EOLhyphen"/>pets to give the laſt ſound through the whole Creation for the Reſur<g ref="char:EOLhyphen"/>rection of the dead; And I have prepared another Angel which ſtands ready after them to cry with a loud voice, he that is Holy let him be holy ſtill, and he that is Filthy let him be filthy ſtill, for time ſhall be no longer, but all that live and abide ſhall dwell in Eternity, Amen Halelujah, even ſo come, O Lord Jeſus ſaith the bride, and him that is a thirſt ſaith come quickly Amen Halelujah, Glory in the higheſt Amen.</hi>
+            </p>
+            <lg>
+               <l>Becauſe thy time is ſhort O Satan doſt thou rage</l>
+               <l>As if the Ocean deep, thy malice could not ſwage,</l>
+               <l>But be it known to thee <hi>Leviathan,</hi>
+               </l>
+               <l>My hook ſhall bring thee down, within a ſpan,</l>
+               <l>For with my hand, i'th Pit I will the ſeal,</l>
+               <l>Thy rage on Earth no more ſhalt thou reveale;</l>
+               <l>This is my purpoſe, and my juſt decree,</l>
+               <l>To raiſe my Holy ſeed, and make an end of thee.</l>
+               <l>Which from the Serpent came, the Dragon and the Beaſt,</l>
+               <l>That all my whole Creation, for ever be at reſt.</l>
+            </lg>
+            <p>
+               <hi>ALL people who have any honeſt deſires towards the living God, his Truth and Righteouſneſs, make haſt and flee out of</hi> Babylon, <hi>and come into the Light of the Lord, that you may ſee his Controverſie with her, and be Redeemed from all Iniquity, and declare in</hi> Sion <hi>the
+<pb facs="tcp:97270:4"/>vengeance of the Lord againſt her, for his plagues and vials of wrath, are coming on</hi> Babylon <hi>like haile, and the ſwift Arrowes of the Al<g ref="char:EOLhyphen"/>mighty are entred into her bowels, Therefore, woe, woe to the Inha<g ref="char:EOLhyphen"/>bitants of the Earth (that will not come unto the name of the Lord) be<g ref="char:EOLhyphen"/>cauſe of the Plagues and judgments which are yet to come, ſome woes are paſt, but there are many other to come ſuddenly, Bleſſings, and Honour, and Glory, unto him who lives and Raignes for ever and for ever more Amen.</hi>
+            </p>
+            <q>
+               <p>The ſtout hearted are ſpoyled, they ſlept their Sleep,</p>
+               <bibl>
+                  <hi>Pſal. 76.</hi>
+               </bibl>
+            </q>
+            <q>But for the Elects ſake, thoſe days ſhall be ſhortned.</q>
+            <closer>
+               <signed>
+                  <hi>Through an Earthen Veſſel called</hi> William Bayly. <hi>W.</hi>
+               </signed>
+            </closer>
+            <trailer>The END</trailer>
+            <pb facs="tcp:97270:5"/>
+            <pb facs="tcp:97270:5" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:97270:6" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:97270:6" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:97270:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:97270:7" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:97270:8" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:97270:8" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
